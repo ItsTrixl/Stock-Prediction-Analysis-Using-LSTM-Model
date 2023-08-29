@@ -5,6 +5,12 @@ Forecast Uber stock prices using an LSTM model, leveraging historical data for a
 
 This GitHub repository hosts an advanced financial analysis project centered around predicting Uber's stock prices using Long Short-Term Memory (LSTM) neural networks. Leveraging historical stock data, this project demonstrates the application of deep learning techniques in the realm of finance. LSTM's ability to capture temporal dependencies makes it a potent tool for predicting stock trends.
 
+# LSTM Model
+The Long Short-Term Memory (LSTM) model is a specialized type of recurrent neural network (RNN) designed to effectively capture and learn from sequential data. It excels at understanding long-range dependencies and patterns within sequences, making it ideal for tasks like time series forecasting, natural language processing, and speech recognition.
+
+# Dataset
+This dataset contains historical stock market information for Uber Technologies, Inc. (UBER). It includes essential stock-related metrics such as opening and closing prices, trading volume, highs and lows, and date-time information. Analyzing this dataset enables insights into UBER's market trends and performance, aiding investors and analysts in making informed decisions.
+
 # Key Features
 
 Utilizes Python and TensorFlow for LSTM implementation.
